@@ -1,0 +1,11 @@
+* Mysql design separates query processing and other server tasks from data storage and retrieval.
+
+Mysql Architecture
+  a- Connection Management & security
+  b- Optimization & Execution
+
+Concurrency Control
+  a- Table lock
+  b- Row lock
+
+Transactions
